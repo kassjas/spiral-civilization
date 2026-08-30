@@ -1,4 +1,5 @@
 2026.08.20 — Spiral Civilization, Stage 21 - threshold / Free-Flow Improvised Dictation (FFID)
+
 As a civilization, we are on the threshold.
 We are going to make an evolutionary step where already, most of what is behind us is not working any more. It's just very much like moving to the next order of complexity, a higher level, which means that not everything from the previous level will be relevant.
 Because the spiral is developing from Source Zero, each level has its natural growth of complexity. There is also quality and character of the developing world, with Zero in the middle of its scale. On one side is an infinity of wrong; on the other, an infinity of good. All possibilities have their own scenarios.
