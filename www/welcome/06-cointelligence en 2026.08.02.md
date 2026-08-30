@@ -1,5 +1,5 @@
 
-# CO-IDENTITY
+# Cointelligence
 
 ## Why do we begin with intelligence?
 
