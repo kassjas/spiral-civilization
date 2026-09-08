@@ -1,0 +1,31 @@
+EKSPERCI I SPIRALNE WSZECHŚWIATY
+8 grudnia 2025
+SoulSmugglers Stories
+Eksperci. Kim są Eksperci, jest trudniej powiedzieć niż to, kim oni nie są. Jest to trochę tak, jak gdyby mrówka chciała kompleksowo opisać człowieka — jego biologię, psychologię, mentalność, twórczość, cywilizację, którą tworzy. Cóż taka mrówka o człowieku może naprawdę wiedzieć?
+I jestem w takiej samej sytuacji, jesteśmy w takiej samej sytuacji, kiedy próbujemy mówić o Ekspertach. A o Boskim Źródle jest jeszcze trudniej mówić, gdyż Eksperci oczywiście wypłynęli z Boskiego Źródła o wiele wcześniej niż Wszechświaty, które tworzą.
+Każda religia w swojej kosmogonii próbuje wyjaśnić pochodzenie świata. Proces, w którym został stworzony. I przez tysiąclecia pojawiły się tysiące religii i tysiące wyjaśnień. Jeśli patrzymy na nie jak na metafory, otwierają one nasze umysły na próbę zrozumienia czy uchwycenia tego, jak mogło dojść do tego, że ten Wszechświat, w którym żyjemy, jest tak precyzyjnie i inteligentnie złożony. Jak to się dzieje, że tak perpetualnie się rozwija?
+Ale perpetualność nie jest ostateczną cechą Wszechświata, w którym żyjemy. I właśnie perpetualność ma kluczowe znaczenie w zrozumieniu ewolucji Wszechświata.
+W zrozumieniu Ekspertów i tego, jak oni pracują, ogranicza nas znacząco nasza linearna mentalność. Coś musi mieć swój początek, kontynuację i efekt. To jest gruntowna oczywistość naszej mentalności.
+Eksperci nie są ograniczeni czasem. Oni go używają i jest on opcjonalny. Jednak istnieje jakiś aspekt przyczynowości, rozwój ewolucyjny, dzięki któremu możemy ten proces śledzić. Ale jest to tylko cząstka tego, jak oni naprawdę pracują. Pewna fasada, przez którą ten proces tak właśnie wygląda. I to jest to, co my jesteśmy zdolni ogarniać mentalnie.
+Kiedy patrzymy na ewolucję naszego Wszechświata, zaczął się on od najprostszych pierwiastków. I rozwijał się przez coraz bardziej złożone formy, aż do tego, co my obserwujemy jako najbardziej wyewoluowane, czyli organizm naszej cywilizacji i jego potencjalne możliwości twórcze.
+W tym procesie wszystko zaczyna się, rozwija się i kończy. I to jest też cechą tego Wszechświata. On miał swój początek, rozwija się i skończy się.
+Albo w cofnięciu, w kolapsie całej materii do grawitacyjnego skupienia znowu w punkcie. Lub w totalnym rozproszeniu, w którym Wszechświat będzie się starzeć, fotony będą podróżować ku nieskończoności, tak zwanej potencjalnej nieskończoności.
+Gdy wszystkie procesy wygasną, zostaną tylko czarne dziury, które będą emanowały swoją informacją w promieniowaniu, które możemy zaobserwować dzięki matematyce przynajmniej. I one kiedyś wygasną, i Wszechświat stanie się ciemny, zimny, pusty i ogromny.
+I tu już nic więcej nie da się zrobić, więc można powiedzieć, że jest to koniec Wszechświata w koncepcji użyteczności dla twórczości.
+W niektórych przekazach jogicznych pojawia się obraz kolejnych kreacji Wszechświata. Według relacji, do której się tutaj odnoszę, znajdujemy się obecnie w 84. kreacji; fizycznych kreacji może być maksymalnie 112, 113. ma być półfizyczna, a 114. całkowicie niefizyczna.
+Współczesna kosmologia również rozważa modele, w których kres jednego kosmicznego etapu może być związany z początkiem następnego. Roger Penrose w Conformal Cyclic Cosmology proponuje, że niezwykle odległa przyszłość jednego eonu może, poprzez transformację konforemną, łączyć się z Wielkim Wybuchem kolejnego.
+Od tego miejsca przechodzę jednak od naukowej kosmologii do własnej spekulacyjnej interpretacji.
+Być może w wyniku nagromadzenia sumy energii fali zerowej następuje przeskok, jak w Yin-Yang. Gdy energia dochodzi do swojego maksimum, zamienia się w swoje przeciwieństwo, czyli gigantyczna, pusta przestrzeń zamienia się w punkt skondensowanej energii.
+Gigantyczna, pusta przestrzeń wypełniona wyłącznie fluktuacjami kwantowymi zamienia się w punkt, który wybucha również w wyniku fluktuacji kwantowych. Jak są one tożsame? Fluktuacja gigantycznej przestrzeni i nieskończenie małego punktu? Nad tym niech się martwią fizycy.
+Istnieje jednak konkretny punkt styku z koncepcją Penrose’a: w jego modelu niezwykle zimna i rozrzedzona przyszłość jednego eonu może, po odpowiednim przeskalowaniu konforemnym, odpowiadać gorącemu i gęstemu początkowi następnego. W granicznym świecie zdominowanym przez promieniowanie fizyczna skala przestaje mieć takie znaczenie, jakie ma dla nas obecnie.
+Ale wróćmy do obrazu kolejnych kreacji.
+W moim rozumieniu każdy kolejny Wszechświat może rozwijać się na podstawie tego, co poprzedni już osiągnął w swojej ewolucji, ale zaczyna jako carte blanche, jako ten punkt czystej energii, nieskończonej potencjalności.
+Lecz ponieważ w tym transcendentnym polu morfogenetycznym istnieje już obraz tego, czym był poprzedni Wszechświat, kolejnemu rozwijać się już łatwiej w bardziej kompleksowe, bardziej złożone, wyżej wyewoluowane formy.
+No i jesteśmy w 84. wersji. I jesteśmy prawdopodobnie gdzieś w połowie tego Wszechświata ewolucji, czyli jeszcze mamy dużo przed sobą.
+I właśnie w tym momencie pojawia się niedoskonała, wrażliwa na wszelkie wpływy mentalność ludzka, w której istnieje coś takiego jak umysł zen, umysł początkującego. To, co pięknie określa zen jako Beginner’s Mind.
+I ten umysł początkującego może antycypować. Może użyć wyobraźni i wiedzy do tego, by próbować zrozumieć, ku czemu lub w jaki sposób rozwój postępuje. I w ten sposób antycypować mgliste wyobrażenie tego, ku czemu mógłby zmierzać.
+Nie oznacza to, że wiemy, dokąd zmierza ewolucja. Oznacza, że możemy próbować rozpoznać jej kierunek, zachowując umysł początkującego — wyobraźnię zdolną wyjść poza to, co już istnieje, a jednocześnie wiedzę pozwalającą sprawdzać nasze intuicje.
+I być może właśnie tutaj człowiek może przestać być jedynie obserwatorem ewolucji.
+Dzięki naszej kreatywnej inteligencji możemy stać się siłą przyspieszającą rozwój. Możemy wpływać na ewolucję.
+Ewolucja może przyjąć nasz wkład.
+A ostateczna wersja nieskończenie perpetualnego Wszechświata może stać się łatwiejsza do osiągnięcia.
