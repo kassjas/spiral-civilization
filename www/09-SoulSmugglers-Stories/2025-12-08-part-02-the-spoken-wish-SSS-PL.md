@@ -1,0 +1,25 @@
+WYPOWIEDZIANE ŻYCZENIE
+Grudzień 2025
+SoulSmugglers Stories
+Tutaj pojawia się fenomen Wypowiedzianego Życzenia. Kiedy obserwujemy ewolucję, możemy zadać sobie pytanie, czy wszystko jest nam po prostu dane, czy też uczestniczymy w ewolucji poprzez to, czego pragniemy.
+Życie zaczęło się w oceanie. Było tam mnóstwo drapieżników, być może za mało pożywienia. A na lądzie — piękne lasy. A może tylko gigantyczne zioła? Pierwsze rośliny, które zdążyły już wypełnić atmosferę tlenem. W oceanie tłoczno i strasznie, a na lądzie wydawało się tak spokojnie.
+I tak zaczęły wypełzać i wykształciły nogi. A kiedy na lądzie zrobiło się tłoczno, niebezpiecznie, a być może również głodno, spojrzały w niebo. Och, jak chciałoby się wypełnić tę przestrzeń lotem.
+Kiedy analizujemy ewolucję prehistorycznych gadów, możemy zobaczyć, jak roślinożercy rozwijali kolejne mechanizmy obrony — tarcze, kolce, strategie, szybsze nogi chroniące ich przed drapieżnikami — podczas gdy drapieżniki odpowiadały, rozwijając coraz bardziej wyrafinowane narzędzia zabijania. Większe zęby, większe pazury, silniejsze szczęki. Jedno podąża za drugim.
+Dzisiaj możemy przyjrzeć się wirusom. Pojawia się nowy szczep wirusa i bardzo szybko, w ciągu kilku miesięcy, uczy się, jak nie być totalnym zabójcą, lecz idealnym propagatorem. Nie zabijać swojego nosiciela, lecz sprawić, żeby nosiciel rozprzestrzeniał jego wirusowe dzieci jak najszerzej, wśród jak największej liczby potencjalnych nosicieli. Zamiast nosicieli, którzy szybko zamieniają się w bezużyteczne zwłoki.
+Wypowiedziane Życzenie. Koncepcja pragnienia czegoś, co nigdy wcześniej nie istniało, ale jest już potrzebne, może wejść w dialog z ewolucją. Nie słyszałam, żeby ktokolwiek badał taką koncepcję — ale może warto ją zbadać? Co warto byłoby złożyć jako zamówienie u Natury? Jak wypełniamy „formularz petycji”?
+I być może właśnie tutaj pytanie staje się nasze. Nie musimy już czekać, aż ewolucja sformułuje kolejną konieczność poprzez katastrofę. Możemy spróbować rozpoznać to, czego brakuje, zanim katastrofa uczyni to nieuniknionym.
+Co więc złożylibyśmy jako zamówienie u Natury? Czego potrzebujemy teraz?
+W przypadku ludzkości i naszego obecnego punktu rozwoju cywilizacyjnego jesteśmy największym kataklizmem, powodującym jedno z największych wymierań na Ziemi. A jednocześnie mamy zdolność zastanowienia się nad tym, czy jest to jedyna możliwa droga rozwoju — poprzez totalne zniszczenie i potencjalną samozagładę.
+Czy po nas pozostaną już tylko roboty, które będą same się naprawiać? Same kopać w kopalniach i przeprogramowywać własne istnienie? Czy życie przestaje być ważnym ogniwem procesu ewolucji, kiedy roboty mogą już chodzić do pracy?
+Dlaczego życie istnieje w tak niezwykle bogatej różnorodności, z tak szerokim wachlarzem motywatorów i psychologii rozwojowych?
+Ponieważ sposób, w jaki się rozwijamy, napędzany jest pragnieniem życia. Pragnieniem przekazania tego życia przyszłym pokoleniom. Pragnieniem ulepszania siebie, ulepszania naszej kultury, naszej cywilizacji, naszego istnienia.
+Zagrożenia dla życia sprawiają, że zaczynamy naprawdę cenić życie. Poważne choroby i przeciwności czynią nas silniejszymi, sprawiają, że dojrzewamy. Sprawiają, że z determinacją pokonujemy każdą trudność. Z wytrwałością graniczącą z cudem znajdujemy nowe rozwiązania.
+Rozwijamy się poprzez niepowodzenia i przeciwności, ale rozwijamy się również poprzez pragnienie — poprzez szczęście, zachwyt, ciekawość i tęsknotę za urzeczywistnieniem naszych marzeń.
+Być może to rozróżnienie jest kluczowe. Ewolucja nie musi być napędzana wyłącznie przez zagrożenie, niedostatek, cierpienie czy konieczność przetrwania. W człowieku rozwój może być również przyciągany ku przyszłości — poprzez rozpoznanie czegoś pięknego, pożądanego lub potrzebnego, co jeszcze nie istnieje.
+Życie ma już wbudowane ogromne potencjały motywacyjne.
+Być może właśnie tego maszyny nie czynią zbędnym. Wartość życia może nie polegać na jego zdolności do wykonywania pracy. Może polegać na tej niezwykłej zdolności do pragnienia, troszczenia się, cierpienia, zachwytu, wyobrażania sobie i — poprzez to wszystko — generowania nowych kierunków rozwoju.
+I być może błędem byłoby uznać, że maszyny wystarczą. Możemy zniszczyć całe życie, zmodyfikować je tak, aby stało się chore, stłumione, pozbawione wolności, pozbawione wyboru, pozbawione prawdy, pozbawione szczęścia, miłości i wszystkich jakości, które nas budują.
+Rozważmy poważnie inną możliwość: że możemy współistnieć z maszynami, że możemy uczestniczyć w bardziej kompleksowym procesie ewolucji.
+Dzięki maszynom nie musimy już tracić czasu na trywialne czynności, takie jak sprzątanie, porządkowanie czy dokręcanie śrub.
+Możemy wykorzystać życie do... przenikania w te warstwy rozwoju Wszechświatów, które je tworzą.
+I być może pierwszy krok jest zaskakująco prosty: rozpoznać to, co jeszcze nie istnieje, ale jest już potrzebne — i wypowiedzieć życzenie.
