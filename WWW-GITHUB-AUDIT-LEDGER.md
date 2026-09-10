@@ -3,7 +3,7 @@
 **Audit date:** 2026-09-10  
 **Repository:** `kassjas/spiral-civilization`  
 **Website:** Spiral Civilization WordPress  
-**Status:** Audit discovery pass completed; corrections not yet executed unless separately recorded.
+**Status:** Audit discovery pass completed; corrections are now being executed through this ledger.
 
 ## Purpose
 
@@ -19,7 +19,7 @@ The audit question is therefore:
 - **GITHUB — SOURCE** — source material from which another public form was developed.
 - **GITHUB — GENEALOGY** — developmental version intentionally preserved as project history.
 - **GITHUB — INCORPORATED INTO [X]** — standalone source whose knowledge was incorporated into another public document.
-- **GITHUB — LAB / DEVELOPMENT** — experimental or development material not intended for full public presentation.
+- **GITHUB — LAB / DEVELOPMENT** — experimental or development material.
 - **GITHUB — PUBLIC CANDIDATE** — substantive material whose publication status still requires a decision.
 - **WWW — OPERATIONAL** — website implementation element that does not require a copy of generated markup in GitHub.
 - **WWW → GITHUB MISSING** — substantive public material lacks corresponding GitHub documentation.
@@ -45,7 +45,7 @@ The audit question is therefore:
 | `Aneks.md` — 21 Fundamental Questions | Root | No equivalent full public document identified | **GITHUB — SOURCE / RESEARCH ARCHITECTURE — TO DECIDE PLACEMENT** | Separate architecture: 21 fundamental questions arranged as seven levels of three; not the same document as Explore Questions. | DECIDE future placement; do not copy automatically |
 | Foundations — Emerging Spiral | `www/02-Foundations` | Foundations | **PUBLIC / SYNCED** | Main foundation text represented on both sides. | NONE |
 | `Nullynity-Foundation.md` | `www/02-Foundations` | Foundations contains intended `[Nullynity]` insertion/link point but not full text | **PUBLIC SOURCE / WWW REPRESENTATION INCOMPLETE** | Public-facing Nullynity foundation is intended to be linked/published from Foundations. | LINK / publish public representation after audit |
-| `Nullynity-Protocol-v0.1.md` | `www/02-Foundations` in **public repository** | Not intended for full public website publication | **GITHUB — LAB / DEVELOPMENT — PROTECTION ISSUE** | Richer technical layer is meant to remain non-public, but a label inside a public repository does not make it private. | PROTECT / decide storage before further exposure |
+| `Nullynity-Protocol-v0.1.md` (content identifies itself as v0.2) | `www/02-Foundations`, already historically public | No full WWW publication required | **PUBLIC RESEARCH PROTOCOL / HISTORICAL DEVELOPMENT DOCUMENT** | Kass decided 2026-09-10 on the split model: Foundation = public conceptual layer; current already-disclosed Protocol remains a public research/development record; future implementation-sensitive material must be separated into a private Development Specification from inception. Ordinary deletion would not erase Git history. Filename/version mismatch remains to resolve. | KEEP; later reconcile filename v0.1 vs content v0.2; create future private Development Specification outside public repo |
 | Project Cooperation | `www/04-Project Cooperation` | Project Cooperation | **PUBLIC / SYNCED — DEVELOPED VERSION** | Public developed architecture represented in `www/04`. | NONE |
 | `Project-Cooperation.md` | Root | Later developed Project Cooperation public | **GITHUB — SOURCE / EARLIER VERSION** | Earlier/source form of the later public architecture. | DOCUMENT genealogy |
 | Cooperation Network | `www/05-Cooperation Network` | Cooperation Network | **PUBLIC VERSION — RECONCILE** | Public/GitHub `www/05` version exists but contains malformed/truncated ending. | RECONCILE + FIX WWW/GitHub |
@@ -88,7 +88,7 @@ The audit question is therefore:
 3. **Conversation 04 empty PL placeholder** — 0-byte file; not a substantive version.
 4. **WP ID140** — probable duplicate/misdated copy of ID141; full equivalence must be verified before cleanup.
 5. **WP Sample Page ID2** — stock WordPress page.
-6. **Nullynity Protocol protection contradiction** — material intended as LAB/internal is currently stored in a public GitHub repository.
+6. **Nullynity Protocol filename/version mismatch** — filename says v0.1 while document content identifies itself as v0.2. Public/private architecture has been resolved: current already-public Protocol remains public research history; future implementation-sensitive Development Specification starts private and stays outside the public repository.
 
 ## Confirmed substantive gaps
 
@@ -111,6 +111,21 @@ The audit question is therefore:
 - Project Cockpit already has an important conceptual/genealogical document in Encyclopedia. A future `www/13-Cockpit` must therefore be an operational/navigation environment, not a replacement for that document.
 - Questions may later become structurally subordinate to Expeditions on the website, while remaining a full page. This is a navigation decision, not an audit correction.
 
+## Nullynity public/private architecture — decision 2026-09-10
+
+Three layers are now distinguished:
+
+1. **Nullynity Foundation — PUBLIC FOUNDATION**  
+   Public conceptual layer: what Nullynity is, why it exists, its role in Spiral Civilization and Project Cockpit.
+
+2. **Nullynity Protocol — PUBLIC RESEARCH PROTOCOL**  
+   The present Protocol has already existed in the public repository and remains part of the transparent research/development history. It may describe the research process and experimental architecture sufficiently for the project to remain inspectable and challengeable.
+
+3. **Nullynity Development Specification — PRIVATE DEVELOPMENT LAYER**  
+   Future implementation-sensitive material — detailed implementation procedures, internal prompts/configurations, evaluation parameters/algorithms, experimental operational details, or other material Kass deliberately chooses not to publish — must be created and maintained outside the public repository from inception. It must not be treated as private merely by adding an `internal` label to a public file.
+
+**Boundary rule:** Public Foundation explains the concept. Public Protocol exposes the research method. Private Development Specification contains implementation-sensitive construction details.
+
 ## Action codes
 
 - **NONE** — relationship is healthy and documented.
@@ -120,12 +135,12 @@ The audit question is therefore:
 - **RECONCILE** — compare meaningful variants and decide canonical public content.
 - **ORGANIZE** — improve repository placement without destroying genealogy.
 - **DECIDE** — Kass decides public/architectural role before implementation.
-- **PROTECT** — move or otherwise protect genuinely non-public material; a public-repo label is insufficient.
+- **PROTECT** — keep future implementation-sensitive material outside the public repository from inception.
 - **CLEANUP** — remove/repair technical residue only after verification/approval.
 
-## Execution order proposed by the audit
+## Execution order — current
 
-1. Protect or relocate genuinely non-public Nullynity Protocol material.
+1. **DONE — architecture decision:** Nullynity public/private split established; current Protocol remains public research history; future Development Specification is private from inception.
 2. Create GitHub documentation for Identity Fields Tool and Privacy Information.
 3. Complete the public Nullynity Foundation representation/link.
 4. Reconcile and repair Cooperation Network.
