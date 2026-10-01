@@ -47,3 +47,8 @@ https://spiralcivilization.org
 
 © Katarzyna Jaśkiewicz
 Founder of Spiral Civilization
+
+
+## Expeditions and Co-Intelligence source record
+
+[Expedition Two](www/03-Expeditions/expedition-two/expedition-two.md) · [Expedition Three and Entry Package](www/03-Expeditions/expedition-three/README.md) · [Phase 1 — Independent Responses](www/03-Expeditions/expedition-three/phase-1-independent-responses/README.md)
