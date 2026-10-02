@@ -21,3 +21,7 @@ System attribution identifies the system used in the experiment. It does not imp
 > **The independent responses are the public source record of Phase 1. Cross-Reading and subsequent stages form the ongoing research process. Their validated findings and resulting architectures will be published as the experiment develops.**
 
 [Previous: Expedition Two](../expedition-two/expedition-two.md) · [All Expeditions](../README.md) · [Publication provenance](PROVENANCE.md)
+
+## Phase 1B — Architecture & Memory Cross-Reading
+
+[Read the Phase 1B findings](phase-1b-architecture-memory-cross-reading/README.md) and [Provenance & Validation Appendix](phase-1b-architecture-memory-cross-reading/provenance-and-validation.md). This separate stage cross-read four architecture and memory proposals. The full Cross-Reading of the four 21-question Independent Responses remains a future experimental stage; no completed Round Zero was located. Documented revisions do not establish emergence or superiority over a simpler process.
