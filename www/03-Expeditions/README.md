@@ -12,4 +12,6 @@ System attribution identifies the system used in the experiment. It does not imp
 - [Expedition Three — complete Entry Package](expedition-three/README.md)
 - [Co-Intelligence Experiment — Phase 1 Results](expedition-three/phase-1-independent-responses/README.md)
 
+- [Expedition 4 — Nullynity](expedition-four/expedition-four.md)
+
 [Read on the website](https://spiralcivilization.org/expeditions/)
